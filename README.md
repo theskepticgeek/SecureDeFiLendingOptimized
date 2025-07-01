@@ -107,8 +107,9 @@ Lender (owner) can withdraw collected ETH (interest and defaulted collateral).
 
 ```
 📁 /SecureDeFiLendingOptimized
-├── 📄 SecureDeFiLendingOptimized.sol
 ├── 📄 README.md
+├── 📄 Response to reviews.pdf
+├── 📄 SecureDeFiLendingOptimized.sol
 └── 📊 flowchart.png
 ```
 

@@ -119,7 +119,7 @@ Lender (owner) can withdraw collected ETH (interest and defaulted collateral).
 - **Krrish Dubey** — [`@theskepticgeek`](https://github.com/theskepticgeek)
 - **Priyanka Mukherjee** — [`@CodeWithPriyankaMukherjee`](https://github.com/CodeWithPriyankaMukherjee)
 
-Affiliated with: *[Your Institution Name]*  
+Affiliated with: *[JIS College of Engineering]*  
 This project was created as part of our research contribution to the field of **Game Theory in Blockchain-Based Finance**.
 
 ---

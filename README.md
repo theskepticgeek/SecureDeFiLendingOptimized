@@ -1,4 +1,4 @@
-
+#Paper published in proceedings of [12th International Symposium on Applied Computing for Software and Smart Systems (ACSS-2025)](https://link.springer.com/chapter/10.1007/978-3-032-18985-1_1)
 # 🔐 SecureDeFiLendingOptimized
 
 A **Game-Theoretic Smart Contract for Decentralized Lending** on Ethereum, integrating dynamic reputation systems, collateral-backed loans, and trust-based incentives. Built with Solidity and deployed on the Ethereum testnet, this smart contract is the implementation of the research paper:
